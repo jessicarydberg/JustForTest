@@ -1,1 +1,1 @@
-[Live link]([https://link-url-here.org](https://jessicarydberg.github.io/JustForTest/))
+[Live link](https://jessicarydberg.github.io/JustForTest/)
