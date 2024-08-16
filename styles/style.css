@@ -3,8 +3,8 @@ body {
     padding-right: 35vh;
     text-align: center;
     background-color: rgb(226, 175, 108);
-    background-image: url("styles/golvet.jpg");
-    background-size: cover;
+    background-image: url("golvet.jpg");
+    background-size: auto;
 }
 
 h1 {
